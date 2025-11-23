@@ -1753,5 +1753,2804 @@
       }
     ],
     "explanation": "The sentence structure, with 'but', signals a contrast between an initial negative reaction ('irked') and a later positive one ('asset'). The words in the two blanks should describe a similar quality, one that can be viewed both negatively and positively. A book's 'aimlessness' would likely irk a reader, but its 'discursions' (digressions) could be the very feature that, upon deeper reading, is appreciated as an asset."
+  },
+  {
+    "id": "section_4_easy_6",
+    "section": "section 4 easy",
+    "question_number": 6,
+    "type": "Text Completion",
+    "correctAnswer": "BFG",
+    "question": "Unambiguous texts can allow their readers to (i) ______ them quickly, but ambiguous texts can have the attractive (ii) ______ of multiple possible interpretations, all of which can be considered equally (iii) ______, and none of which is the single true meaning.",
+    "options": [
+      {
+        "key": "A",
+        "text": "misunderstand"
+      },
+      {
+        "key": "B",
+        "text": "comprehend"
+      },
+      {
+        "key": "C",
+        "text": "complicate"
+      },
+      {
+        "key": "D",
+        "text": "stigma"
+      },
+      {
+        "key": "E",
+        "text": "blemish"
+      },
+      {
+        "key": "F",
+        "text": "allure"
+      },
+      {
+        "key": "G",
+        "text": "valid"
+      },
+      {
+        "key": "H",
+        "text": "frank"
+      },
+      {
+        "key": "I",
+        "text": "inveterate"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "unambiguous",
+        "definition": "Not open to more than one interpretation; having only one meaning."
+      },
+      {
+        "word": "allure",
+        "definition": "The quality of being powerfully and mysteriously attractive or fascinating."
+      },
+      {
+        "word": "inveterate",
+        "definition": "Having a particular habit, activity, or interest that is long-established and unlikely to change."
+      }
+    ],
+    "explanation": "The sentence contrasts unambiguous texts, which are clear and thus quickly comprehended, with ambiguous ones. The word 'attractive' is a direct synonym for allure, describing the appeal of multiple meanings in ambiguous texts. If there is no single 'true meaning,' then all possible interpretations can be considered equally valid."
+  },
+  {
+    "id": "section_4_easy_7",
+    "section": "section 4 easy",
+    "question_number": 7,
+    "type": "Sentence Equivalence",
+    "correctAnswer": "BE",
+    "question": "Harper Lee’s narration in To Kill a Mockingbird is ______, mixing an adult’s and a child’s perspective according to no logic other than the immediate exigencies of the plot.",
+    "options": [
+      {
+        "key": "A",
+        "text": "a paradigm"
+      },
+      {
+        "key": "B",
+        "text": "a hodgepodge"
+      },
+      {
+        "key": "C",
+        "text": "a model"
+      },
+      {
+        "key": "D",
+        "text": "an innovation"
+      },
+      {
+        "key": "E",
+        "text": "a patchwork"
+      },
+      {
+        "key": "F",
+        "text": "an embarrassment"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "exigencies",
+        "definition": "An urgent need or demand."
+      },
+      {
+        "word": "hodgepodge",
+        "definition": "A confused mixture; a jumble."
+      },
+      {
+        "word": "patchwork",
+        "definition": "Something made up of many different, often incongruous, parts."
+      },
+      {
+        "word": "paradigm",
+        "definition": "A typical example or pattern of something; a model."
+      }
+    ],
+    "explanation": "The key clue in the sentence is that the narration mixes two perspectives 'according to no logic,' suggesting a disorganized, jumbled composition. Both 'a hodgepodge' and 'a patchwork' describe a confused mixture of various elements. Therefore, these two words best fit the blank and create sentences with nearly identical meanings."
+  },
+  {
+    "id": "section_4_easy_8",
+    "section": "section 4 easy",
+    "question_number": 8,
+    "type": "Sentence Equivalence",
+    "correctAnswer": "BE",
+    "question": "The employee had a reputation for fractiousness, but his coworkers found him to be, on the contrary, quiet and _____.",
+    "options": [
+      {
+        "key": "A",
+        "text": "insightful"
+      },
+      {
+        "key": "B",
+        "text": "affable"
+      },
+      {
+        "key": "C",
+        "text": "sagacious"
+      },
+      {
+        "key": "D",
+        "text": "capable"
+      },
+      {
+        "key": "E",
+        "text": "easygoing"
+      },
+      {
+        "key": "F",
+        "text": "productive"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "fractiousness",
+        "definition": "The quality of being irritable, bad-tempered, or quarrelsome."
+      },
+      {
+        "word": "affable",
+        "definition": "Friendly, good-natured, or easy to talk to."
+      },
+      {
+        "word": "sagacious",
+        "definition": "Having or showing keen mental discernment and good judgment; wise."
+      }
+    ],
+    "explanation": "The sentence establishes a contrast, signaled by 'but' and 'on the contrary,' between the employee's reputation and his actual demeanor. His reputation for 'fractiousness' (being irritable and quarrelsome) requires words in the blank that mean the opposite. Both 'affable' (friendly) and 'easygoing' (relaxed and tolerant) are synonyms that describe a pleasant, agreeable nature, directly contrasting with fractiousness."
+  },
+  {
+    "id": "section_4_easy_9",
+    "section": "section 4 easy",
+    "question_number": 9,
+    "type": "Sentence Equivalence",
+    "correctAnswer": "AF",
+    "question": "Even though women in the US would not gain the rights to vote until 1920, throughout the nineteenth century many feminist goals were gradually ______, especially the rights of married women to control their own property.",
+    "options": [
+      {
+        "key": "A",
+        "text": "realized"
+      },
+      {
+        "key": "B",
+        "text": "abandoned"
+      },
+      {
+        "key": "C",
+        "text": "eroded"
+      },
+      {
+        "key": "D",
+        "text": "modified"
+      },
+      {
+        "key": "E",
+        "text": "revised"
+      },
+      {
+        "key": "F",
+        "text": "achieved"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "eroded",
+        "definition": "To gradually wear away or destroy."
+      },
+      {
+        "word": "revised",
+        "definition": "To alter or amend something after reconsideration or a new perspective."
+      }
+    ],
+    "explanation": "The phrase 'Even though' establishes a contrast between the major goal that was not met (the right to vote) and other goals that were. The example of property rights for married women serves as a positive instance, indicating that these other goals were being accomplished. Thus, the synonyms 'realized' and 'achieved' correctly fill the blank."
+  },
+  {
+    "id": "section_4_easy_10",
+    "section": "section 4 easy",
+    "question_number": 10,
+    "type": "Sentence Equivalence",
+    "correctAnswer": "BD",
+    "question": "Edited collections of scholarly essays generally tend to be somewhat uneven: they suffer from the ______ subject matter of the various essays, the lack of an overarching and consistent thesis, and the variable quality of the contributions.",
+    "options": [
+      {
+        "key": "A",
+        "text": "intriguing"
+      },
+      {
+        "key": "B",
+        "text": "heterogeneous"
+      },
+      {
+        "key": "C",
+        "text": "comprehensive"
+      },
+      {
+        "key": "D",
+        "text": "disparate"
+      },
+      {
+        "key": "E",
+        "text": "mediocre"
+      },
+      {
+        "key": "F",
+        "text": "engaging"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "heterogeneous",
+        "definition": "Diverse in character or content; composed of parts of different kinds."
+      },
+      {
+        "word": "disparate",
+        "definition": "Essentially different in kind; not allowing comparison; containing elements that are not alike."
+      },
+      {
+        "word": "overarching",
+        "definition": "Comprehensive or all-embracing; forming a common framework for something."
+      }
+    ],
+    "explanation": "The key word 'uneven' signals that the collection lacks consistency. The sentence then provides examples of this unevenness, such as 'the lack of an overarching and consistent thesis' and 'variable quality.' The word in the blank must align with this idea of variety and lack of cohesion, describing the 'subject matter' as being composed of many different, unrelated topics, which 'heterogeneous' and 'disparate' both effectively do."
+  },
+  {
+    "id": "section_5_easy_1",
+    "section": "section 5 easy",
+    "question_number": 1,
+    "type": "Text Completion",
+    "correctAnswer": "C",
+    "question": "The Labrador duck is one of the most _____ extinct birds: although there are a fair number of specimens, few have yielded reliable data and little is known about the species’ breeding patterns.",
+    "options": [
+      {
+        "key": "A",
+        "text": "anomalous"
+      },
+      {
+        "key": "B",
+        "text": "controversial"
+      },
+      {
+        "key": "C",
+        "text": "enigmatic"
+      },
+      {
+        "key": "D",
+        "text": "misrepresented"
+      },
+      {
+        "key": "E",
+        "text": "cherished"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "enigmatic",
+        "definition": "Difficult to interpret or understand; mysterious."
+      },
+      {
+        "word": "anomalous",
+        "definition": "Deviating from what is standard, normal, or expected."
+      }
+    ],
+    "explanation": "The colon indicates that the second half of the sentence explains the word in the blank. The clause 'few have yielded reliable data and little is known about the species’ breeding patterns' serves as a direct definition for something that is a puzzle or mystery. Therefore, 'enigmatic,' meaning mysterious or difficult to understand, is the correct choice."
+  },
+  {
+    "id": "section_5_easy_2",
+    "section": "section 5 easy",
+    "question_number": 2,
+    "type": "Sentence Equivalence",
+    "correctAnswer": "CE",
+    "question": "The research found that in assessing others, many people hold an unconscious view that competence and warmth are (i) ______: when they perceive a person to be highly capable, they infer that he or she must have a tendency to be (ii) ______.",
+    "options": [
+      {
+        "key": "A",
+        "text": "equally important"
+      },
+      {
+        "key": "B",
+        "text": "mutually reinforcing"
+      },
+      {
+        "key": "C",
+        "text": "inversely related"
+      },
+      {
+        "key": "D",
+        "text": "ambitious"
+      },
+      {
+        "key": "E",
+        "text": "unfeeling"
+      },
+      {
+        "key": "F",
+        "text": "disingenuous"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "inversely related",
+        "definition": "A relationship between two variables in which one variable increases as the other decreases."
+      },
+      {
+        "word": "infer",
+        "definition": "To deduce or conclude (information) from evidence and reasoning rather than from explicit statements."
+      },
+      {
+        "word": "disingenuous",
+        "definition": "Not candid or sincere, typically by pretending that one knows less about something than one really does."
+      }
+    ],
+    "explanation": "The colon indicates that the second clause explains the first; it provides an example of the 'unconscious view.' If people view competence and warmth as 'inversely related,' it means they believe when one trait is high, the other is low. Thus, perceiving a person as 'highly capable' (high competence) leads to the inference that they must be low in warmth, or 'unfeeling'."
+  },
+  {
+    "id": "section_5_easy_3",
+    "section": "section 5 easy",
+    "question_number": 3,
+    "type": "Sentence Equivalence",
+    "correctAnswer": "CE",
+    "question": "Mr. Stevens found that homeschooling, far from representing (i)__________ philosophy, (ii)__________ some of the most widely accepted education ideas: that children should be treated as individuals, taught in small numbers, and given a measure of discretion over their own learning.",
+    "options": [
+      {
+        "key": "A",
+        "text": "a benign"
+      },
+      {
+        "key": "B",
+        "text": "an orthodox"
+      },
+      {
+        "key": "C",
+        "text": "an anomalous"
+      },
+      {
+        "key": "D",
+        "text": "overcomes"
+      },
+      {
+        "key": "E",
+        "text": "embodies"
+      },
+      {
+        "key": "F",
+        "text": "anticipates"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "anomalous",
+        "definition": "Deviating from what is standard, normal, or expected."
+      },
+      {
+        "word": "orthodox",
+        "definition": "Conforming to what is generally or traditionally accepted as right or true; established and approved."
+      },
+      {
+        "word": "embodies",
+        "definition": "To be an expression of or give a tangible or visible form to an idea, quality, or feeling."
+      },
+      {
+        "word": "discretion",
+        "definition": "The freedom to decide what should be done in a particular situation."
+      }
+    ],
+    "explanation": "The phrase 'far from' signals a contrast, indicating that homeschooling is the opposite of what is described in the first blank. Since the sentence goes on to list 'widely accepted education ideas' that homeschooling supports, it must be 'far from' an 'anomalous' (unusual) philosophy. Therefore, homeschooling actually 'embodies' (represents or gives form to) these mainstream ideas."
+  },
+  {
+    "id": "section_5_easy_4",
+    "section": "section 5 easy",
+    "question_number": 4,
+    "type": "Sentence Equivalence",
+    "correctAnswer": "BE",
+    "question": "He was never (i)__________; he was nothing if not (ii)__________, so he forbore for the present to declare his passion.",
+    "options": [
+      {
+        "key": "A",
+        "text": "chivalrous"
+      },
+      {
+        "key": "B",
+        "text": "impetuous"
+      },
+      {
+        "key": "C",
+        "text": "thoughtful"
+      },
+      {
+        "key": "D",
+        "text": "boorish"
+      },
+      {
+        "key": "E",
+        "text": "circumspect"
+      },
+      {
+        "key": "F",
+        "text": "spontaneous"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "impetuous",
+        "definition": "Acting or done quickly without thought or care; impulsive."
+      },
+      {
+        "word": "circumspect",
+        "definition": "Wary and unwilling to take risks; cautious."
+      },
+      {
+        "word": "forbore",
+        "definition": "Past tense of forbear, meaning to politely or patiently restrain an impulse to do something; to refrain."
+      }
+    ],
+    "explanation": "The end of the sentence states that he 'forbore' (refrained) from declaring his passion, which is a key clue indicating cautious behavior. The phrase 'nothing if not' means 'very', so he was very (ii) circumspect, or cautious. The first blank describes what he was 'never' like, creating a contrast with his cautious nature, making (i) impetuous (impulsive) the correct choice."
+  },
+  {
+    "id": "section_5_easy_5",
+    "section": "section 5 easy",
+    "question_number": 5,
+    "type": "Text Completion",
+    "correctAnswer": "CEH",
+    "question": "Computers make it spectacularly easy to search for particular pieces of information in downloaded texts. And doing research in this strategic, targeted manner can feel (i)______. Instead of (ii)______ the organizing logic of the book you are reading, you can approach the book with your own questions and (iii)______. You, not the author, are the master.",
+    "options": [
+      {
+        "key": "A",
+        "text": "disorienting"
+      },
+      {
+        "key": "B",
+        "text": "humbling"
+      },
+      {
+        "key": "C",
+        "text": "empowering"
+      },
+      {
+        "key": "D",
+        "text": "disregarding"
+      },
+      {
+        "key": "E",
+        "text": "surrendering to"
+      },
+      {
+        "key": "F",
+        "text": "imitating"
+      },
+      {
+        "key": "G",
+        "text": "begin to discern the author’s intent"
+      },
+      {
+        "key": "H",
+        "text": "glean precisely what you want from it"
+      },
+      {
+        "key": "I",
+        "text": "evaluate the book on its own terms"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "empowering",
+        "definition": "Making someone stronger and more confident, especially in controlling their life and claiming their rights."
+      },
+      {
+        "word": "glean",
+        "definition": "To obtain information from various sources, often bit by bit."
+      },
+      {
+        "word": "discern",
+        "definition": "To perceive or recognize something with difficulty."
+      }
+    ],
+    "explanation": "The final sentence, \"You, not the author, are the master,\" is the main clue, indicating that this new way of research feels (C) empowering. This mastery is achieved because instead of (E) surrendering to the author's predetermined structure, you can use your own questions to (H) glean precisely what you want from the text."
+  },
+  {
+    "id": "section_5_easy_6",
+    "section": "section 5 easy",
+    "question_number": 6,
+    "type": "Text Completion",
+    "correctAnswer": "CEG",
+    "question": "Given our species’ increasing numbers and appetites—which are reflected in and compounded by global climate change—even (i)_____ species are likely to become endangered within the foreseeable future. If we are to avoid a calamitous loss of biodiversity, according to Golbe, we cannot simply let nature take its course. Ongoing conservation management is (ii)_____, as we have, in a sense, become nature, and the responsibilities that come with the role cannot be (iii)_____.",
+    "options": [
+      {
+        "key": "A",
+        "text": "exotic"
+      },
+      {
+        "key": "B",
+        "text": "vulnerable"
+      },
+      {
+        "key": "C",
+        "text": "now common"
+      },
+      {
+        "key": "D",
+        "text": "ineffective"
+      },
+      {
+        "key": "E",
+        "text": "obligatory"
+      },
+      {
+        "key": "F",
+        "text": "promising"
+      },
+      {
+        "key": "G",
+        "text": "jettisoned"
+      },
+      {
+        "key": "H",
+        "text": "assumed"
+      },
+      {
+        "key": "I",
+        "text": "contrived"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "calamitous",
+        "definition": "Involving calamity; catastrophic or disastrous."
+      },
+      {
+        "word": "obligatory",
+        "definition": "Required by a legal, moral, or other rule; compulsory."
+      },
+      {
+        "word": "jettisoned",
+        "definition": "To abandon or discard something that is no longer wanted or needed."
+      }
+    ],
+    "explanation": "The word 'even' in the first sentence indicates a surprising outcome, so for 'now common' species to become endangered highlights the severity of the crisis. The text then argues we 'cannot simply let nature take its course,' which means conservation management must be 'obligatory' or required. Consequently, the responsibilities that come with this role cannot be discarded or 'jettisoned'."
+  },
+  {
+    "id": "section_5_easy_7",
+    "section": "section 5 easy",
+    "question_number": 7,
+    "type": "Sentence Equivalence",
+    "correctAnswer": "AD",
+    "question": "Miller reminded his clients that labor relationships are inherently ______: the interests of business owners are diametrically opposed to those of employees.",
+    "options": [
+      {
+        "key": "A",
+        "text": "adversarial"
+      },
+      {
+        "key": "B",
+        "text": "exploitative"
+      },
+      {
+        "key": "C",
+        "text": "mercenary"
+      },
+      {
+        "key": "D",
+        "text": "antagonistic"
+      },
+      {
+        "key": "E",
+        "text": "variable"
+      },
+      {
+        "key": "F",
+        "text": "changeable"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "adversarial",
+        "definition": "Involving or characterized by conflict or opposition."
+      },
+      {
+        "word": "diametrically",
+        "definition": "Completely; directly opposite."
+      },
+      {
+        "word": "antagonistic",
+        "definition": "Showing or feeling active opposition or hostility toward someone or something."
+      },
+      {
+        "word": "mercenary",
+        "definition": "Primarily concerned with making money at the expense of ethics."
+      }
+    ],
+    "explanation": "The colon indicates that the second part of the sentence defines or clarifies the first. The clue 'diametrically opposed' suggests a relationship based on fundamental conflict. Thus, the blank must be filled by words that convey this sense of opposition, making 'adversarial' and 'antagonistic' the correct, synonymous pair."
+  },
+  {
+    "id": "section_5_easy_8",
+    "section": "section 5 easy",
+    "question_number": 8,
+    "type": "Sentence Equivalence",
+    "correctAnswer": "AD",
+    "question": "Progressive and reactionary populist movements are not necessarily ______; each may, and usually does, possess features of the other.",
+    "options": [
+      {
+        "key": "A",
+        "text": "dichotomous"
+      },
+      {
+        "key": "B",
+        "text": "untenable"
+      },
+      {
+        "key": "C",
+        "text": "unsustainable"
+      },
+      {
+        "key": "D",
+        "text": "contradictory"
+      },
+      {
+        "key": "E",
+        "text": "subversive"
+      },
+      {
+        "key": "F",
+        "text": "efficacious"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "reactionary",
+        "definition": "Opposing political or social progress or reform."
+      },
+      {
+        "word": "dichotomous",
+        "definition": "Exhibiting a division or contrast between two things that are or are represented as being opposed or entirely different."
+      },
+      {
+        "word": "efficacious",
+        "definition": "Successful in producing a desired or intended result; effective."
+      }
+    ],
+    "explanation": "The clause following the semicolon, \"each may, and usually does, possess features of the other,\" serves as a direct explanation for the word in the blank. This clue indicates that the two types of movements are not entirely separate or mutually exclusive. Both \"dichotomous\" (divided into two distinct parts) and \"contradictory\" (mutually opposed) accurately describe what the movements are not, creating two sentences with the same meaning."
+  },
+  {
+    "id": "section_5_easy_9",
+    "section": "section 5 easy",
+    "question_number": 9,
+    "type": "Sentence Equivalence",
+    "correctAnswer": "AB",
+    "question": "Although one can adduce myriad examples of ecosystem disruption by nonindigenous species, nevertheless most introduced species that survive in fact appear to have quite ____ effects on the ecosystem they have invaded.",
+    "options": [
+      {
+        "key": "A",
+        "text": "minimal"
+      },
+      {
+        "key": "B",
+        "text": "trifling"
+      },
+      {
+        "key": "C",
+        "text": "marked"
+      },
+      {
+        "key": "D",
+        "text": "conspicuous"
+      },
+      {
+        "key": "E",
+        "text": "intriguing"
+      },
+      {
+        "key": "F",
+        "text": "deleterious"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "adduce",
+        "definition": "To cite as evidence or an example."
+      },
+      {
+        "word": "myriad",
+        "definition": "A countless or extremely great number of people or things."
+      },
+      {
+        "word": "trifling",
+        "definition": "Unimportant or trivial."
+      },
+      {
+        "word": "deleterious",
+        "definition": "Causing harm or damage."
+      }
+    ],
+    "explanation": "The sentence structure uses 'Although' and 'nevertheless' to signal a contrast. The first part of the sentence describes 'myriad examples of ecosystem disruption,' which suggests a large and negative impact. The blank, therefore, must describe the opposite: a small or insignificant impact. Both 'minimal' and 'trifling' mean negligible or unimportant, fitting the sentence's logic and creating a pair of synonyms."
+  },
+  {
+    "id": "section_5_easy_10",
+    "section": "section 5 easy",
+    "question_number": 10,
+    "type": "Sentence Equivalence",
+    "correctAnswer": "CF",
+    "question": "Although field studies have linked inbreeding to declines among song sparrow populations, some researchers argue that, in nature, inbreeding proves ______ as a factor when compared with crushing blows from weather changes.",
+    "options": [
+      {
+        "key": "A",
+        "text": "hazardous"
+      },
+      {
+        "key": "B",
+        "text": "momentous"
+      },
+      {
+        "key": "C",
+        "text": "trivial"
+      },
+      {
+        "key": "D",
+        "text": "significant"
+      },
+      {
+        "key": "E",
+        "text": "precarious"
+      },
+      {
+        "key": "F",
+        "text": "inconsequential"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "momentous",
+        "definition": "Of great importance or significance, especially in its bearing on the future."
+      },
+      {
+        "word": "trivial",
+        "definition": "Of little value or importance."
+      },
+      {
+        "word": "inconsequential",
+        "definition": "Not important or significant."
+      },
+      {
+        "word": "precarious",
+        "definition": "Not securely held or in position; dangerously likely to fall or collapse."
+      }
+    ],
+    "explanation": "The word 'Although' signals a contrast between what field studies suggest and what some researchers argue. While studies link inbreeding to population declines, the researchers cited believe its effect is minor 'when compared with crushing blows from weather changes.' Therefore, the blank requires words that mean unimportant, making the synonyms 'trivial' and 'inconsequential' the correct answers."
+  },
+  {
+    "id": "section_6_easy_1",
+    "section": "section 6 easy",
+    "question_number": 1,
+    "type": "Text Completion",
+    "correctAnswer": "B",
+    "question": "One view of historicism holds that systems of belief prevalent during different periods in history are ______ and therefore cannot be understood except in their own terms.",
+    "options": [
+      {
+        "key": "A",
+        "text": "discriminatory"
+      },
+      {
+        "key": "B",
+        "text": "incommensurable"
+      },
+      {
+        "key": "C",
+        "text": "anachronistic"
+      },
+      {
+        "key": "D",
+        "text": "cosmopolitan"
+      },
+      {
+        "key": "E",
+        "text": "objective"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "historicism",
+        "definition": "The theory that social and cultural phenomena are determined by history and that historical periods must be understood in their own contexts."
+      },
+      {
+        "word": "incommensurable",
+        "definition": "Lacking a common measure; not able to be judged or compared by the same standards."
+      },
+      {
+        "word": "anachronistic",
+        "definition": "Belonging to a period other than that being portrayed; chronologically out of place."
+      },
+      {
+        "word": "prevalent",
+        "definition": "Widespread in a particular area at a particular time."
+      }
+    ],
+    "explanation": "The key clue is the phrase 'and therefore cannot be understood except in their own terms,' which functions as a definition for the blank. This implies that belief systems from different periods lack a common standard and cannot be compared directly. The word 'incommensurable,' which means not able to be judged by the same standard, perfectly fits this logical definition."
+  },
+  {
+    "id": "section_6_easy_2",
+    "section": "section 6 easy",
+    "question_number": 2,
+    "type": "Text Completion",
+    "correctAnswer": "C",
+    "question": "The company suffers from an almost total lack of _____: even the most innocuous communications between departments tend to devolve into acrimony.",
+    "options": [
+      {
+        "key": "A",
+        "text": "dissension"
+      },
+      {
+        "key": "B",
+        "text": "variance"
+      },
+      {
+        "key": "C",
+        "text": "comity"
+      },
+      {
+        "key": "D",
+        "text": "conformity"
+      },
+      {
+        "key": "E",
+        "text": "mordancy"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "comity",
+        "definition": "Courtesy and considerate behavior toward others; social harmony."
+      },
+      {
+        "word": "acrimony",
+        "definition": "Bitterness or ill feeling."
+      },
+      {
+        "word": "innocuous",
+        "definition": "Not harmful or offensive."
+      },
+      {
+        "word": "mordancy",
+        "definition": "A biting, caustic, or sarcastic quality."
+      }
+    ],
+    "explanation": "The colon signals that the second part of the sentence explains the first. The clue is that even harmless ('innocuous') communications 'devolve into acrimony' (bitterness). This indicates a lack of social harmony, making 'comity' (courtesy, mutual respect) the correct word to fill the blank."
+  },
+  {
+    "id": "section_6_easy_3",
+    "section": "section 6 easy",
+    "question_number": 3,
+    "type": "Sentence Equivalence",
+    "correctAnswer": "AE",
+    "question": "One way to predict the effects of global climate change on an ecosystem is to extrapolate current trends in global change factors into the future. A (i)__________ of this method is that its predictions (ii)__________ actual observation, but the method also makes the questionable assumption that the future will resemble the present.",
+    "options": [
+      {
+        "key": "A",
+        "text": "virtue"
+      },
+      {
+        "key": "B",
+        "text": "drawback"
+      },
+      {
+        "key": "C",
+        "text": "peculiarity"
+      },
+      {
+        "key": "D",
+        "text": "dispense with"
+      },
+      {
+        "key": "E",
+        "text": "derive from"
+      },
+      {
+        "key": "F",
+        "text": "improve upon"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "extrapolate",
+        "definition": "To estimate or infer an unknown value or quantity by projecting from known data."
+      },
+      {
+        "word": "virtue",
+        "definition": "A beneficial quality or power of a thing; a merit or advantage."
+      },
+      {
+        "word": "dispense with",
+        "definition": "To get rid of or stop using something or someone."
+      }
+    ],
+    "explanation": "The pivot word 'but' signals a contrast; since the clause after 'but' points out a 'questionable assumption' (a negative), the first part of the sentence must describe a positive quality, or 'virtue', of the method. This virtue is that the predictions 'derive from' actual observation, which is consistent with the method of extrapolating current trends."
+  },
+  {
+    "id": "section_6_easy_4",
+    "section": "section 6 easy",
+    "question_number": 4,
+    "type": "Sentence Equivalence",
+    "correctAnswer": "AD",
+    "question": "So (i)__________ is the reputation of the city’s police force for (ii)__________ that whenever a new police chief takes office, he or she routinely promises to clean up the force.",
+    "options": [
+      {
+        "key": "A",
+        "text": "persistent"
+      },
+      {
+        "key": "B",
+        "text": "recent"
+      },
+      {
+        "key": "C",
+        "text": "discouraging"
+      },
+      {
+        "key": "D",
+        "text": "corruption"
+      },
+      {
+        "key": "E",
+        "text": "efficiency"
+      },
+      {
+        "key": "F",
+        "text": "inexperience"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "persistent",
+        "definition": "Continuing firmly or obstinately in a course of action in spite of difficulty or opposition; continuing to exist or endure over a prolonged period."
+      },
+      {
+        "word": "corruption",
+        "definition": "Dishonest or fraudulent conduct by those in power, typically involving bribery."
+      },
+      {
+        "word": "routinely",
+        "definition": "As part of a regular procedure rather than for a special reason."
+      }
+    ],
+    "explanation": "The key clue is that new police chiefs 'routinely' promise to 'clean up the force,' which implies a recurring and negative issue. This supports 'corruption' for the second blank, as it is a negative quality requiring a cleanup. Because this promise is made routinely by every new chief, the reputation for this problem must be long-standing or 'persistent'."
+  },
+  {
+    "id": "section_6_easy_5",
+    "section": "section 6 easy",
+    "question_number": 5,
+    "type": "Sentence Equivalence",
+    "correctAnswer": "BD",
+    "question": "Scientists said that cosmology was the field where the ratio of theory to data was (i)__________: there was an abundance of theories, but almost no data. Recently, however, that ratio has flipped. A huge and ever-increasing amount of data has (ii)__________ all theories but one.",
+    "options": [
+      {
+        "key": "A",
+        "text": "completely unknown"
+      },
+      {
+        "key": "B",
+        "text": "nearly infinite"
+      },
+      {
+        "key": "C",
+        "text": "always variable"
+      },
+      {
+        "key": "D",
+        "text": "eliminated"
+      },
+      {
+        "key": "E",
+        "text": "supported"
+      },
+      {
+        "key": "F",
+        "text": "clarified"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "cosmology",
+        "definition": "The science of the origin and development of the universe."
+      },
+      {
+        "word": "abundance",
+        "definition": "A very large quantity of something."
+      }
+    ],
+    "explanation": "The colon signals that the phrase 'an abundance of theories, but almost no data' explains the first blank; a ratio with a huge numerator (theories) and a tiny denominator (data) is 'nearly infinite.' The word 'however' indicates a reversal, where a new abundance of data has disproven and thus 'eliminated' all competing theories except for one."
+  },
+  {
+    "id": "section_6_easy_6",
+    "section": "section 6 easy",
+    "question_number": 6,
+    "type": "Text Completion",
+    "correctAnswer": "BFH",
+    "question": "Many fairy tales are complex narratives of wish fulfillment. They teach the reader that a struggle against severe difficulties in life is (i)_____, that it is an intrinsic part of human existence, and that if one does not (ii)_____, but steadfastly meets unexpected and often unjust hardships, one masters all obstacles and at the end (iii)_____.",
+    "options": [
+      {
+        "key": "A",
+        "text": "atypical"
+      },
+      {
+        "key": "B",
+        "text": "unavoidable"
+      },
+      {
+        "key": "C",
+        "text": "insurmountable"
+      },
+      {
+        "key": "D",
+        "text": "preserve"
+      },
+      {
+        "key": "E",
+        "text": "improvise"
+      },
+      {
+        "key": "F",
+        "text": "shy away"
+      },
+      {
+        "key": "G",
+        "text": "elicits adversities"
+      },
+      {
+        "key": "H",
+        "text": "emerges victorious"
+      },
+      {
+        "key": "I",
+        "text": "evades achievements"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "intrinsic",
+        "definition": "Belonging to the essential nature or constitution of a thing."
+      },
+      {
+        "word": "steadfastly",
+        "definition": "In a resolutely or dutifully firm and unwavering manner."
+      },
+      {
+        "word": "insurmountable",
+        "definition": "Too great to be overcome."
+      }
+    ],
+    "explanation": "The sentence explains the moral of fairy tales, where struggle is described as an 'intrinsic part of human existence,' making it (i) unavoidable. The word 'but' creates a contrast, indicating that one should not (ii) shy away from hardships but instead meet them 'steadfastly.' This perseverance leads to mastering all obstacles and, as a logical conclusion, one (iii) emerges victorious."
+  },
+  {
+    "id": "section_6_easy_7",
+    "section": "section 6 easy",
+    "question_number": 7,
+    "type": "Sentence Equivalence",
+    "correctAnswer": "BD",
+    "question": "Since it was committed to the idea of science as an international, politically neutral enterprise, the Royal Society of London refused to _____ members from enemy nations during world wars of the twentieth century.",
+    "options": [
+      {
+        "key": "A",
+        "text": "betray"
+      },
+      {
+        "key": "B",
+        "text": "expel"
+      },
+      {
+        "key": "C",
+        "text": "endorse"
+      },
+      {
+        "key": "D",
+        "text": "oust"
+      },
+      {
+        "key": "E",
+        "text": "sanction"
+      },
+      {
+        "key": "F",
+        "text": "condemn"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "enterprise",
+        "definition": "A project or undertaking, particularly a bold, complex, or important one."
+      },
+      {
+        "word": "expel",
+        "definition": "To officially make someone leave a school, organization, or country."
+      },
+      {
+        "word": "oust",
+        "definition": "To drive out or remove someone from a position or place of power."
+      }
+    ],
+    "explanation": "The sentence indicates that because the Royal Society viewed science as an 'international, politically neutral enterprise,' it would not take punitive action against members from 'enemy nations.' This means the society 'refused to' remove or force out these members. The words 'expel' and 'oust' are direct synonyms that both mean to remove someone from an organization, fitting the context perfectly."
+  },
+  {
+    "id": "section_6_easy_8",
+    "section": "section 6 easy",
+    "question_number": 8,
+    "type": "Sentence Equivalence",
+    "correctAnswer": "DE",
+    "question": "Coagulation factors are useful proteins whose simple names—many are known only by Roman numerals—_____ their importance and the specificity of their roles in the thinning and clotting of blood.",
+    "options": [
+      {
+        "key": "A",
+        "text": "nullify"
+      },
+      {
+        "key": "B",
+        "text": "obviate"
+      },
+      {
+        "key": "C",
+        "text": "mitigate"
+      },
+      {
+        "key": "D",
+        "text": "belie"
+      },
+      {
+        "key": "E",
+        "text": "mask"
+      },
+      {
+        "key": "F",
+        "text": "accentuate"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "belie",
+        "definition": "To fail to give a true notion or impression of something; to disguise or contradict."
+      },
+      {
+        "word": "obviate",
+        "definition": "To remove a need or difficulty; to avoid or prevent."
+      },
+      {
+        "word": "mitigate",
+        "definition": "To make something bad less severe, serious, or painful."
+      }
+    ],
+    "explanation": "The sentence sets up a contrast between the \"simple names\" of the coagulation factors and their actual \"importance and the specificity of their roles.\" This contrast indicates that the simple names conceal or misrepresent their true significance. Both \"belie\" (to give a false impression of) and \"mask\" (to conceal) accurately capture this idea of hiding the proteins' true importance."
+  },
+  {
+    "id": "section_6_easy_9",
+    "section": "section 6 easy",
+    "question_number": 9,
+    "type": "Sentence Equivalence",
+    "correctAnswer": "AC",
+    "question": "Despite her rather __________ choices, Moreland was neither a rebellious spirit nor someone who saw herself as anything out of the ordinary.",
+    "options": [
+      {
+        "key": "A",
+        "text": "unconventional"
+      },
+      {
+        "key": "B",
+        "text": "impractical"
+      },
+      {
+        "key": "C",
+        "text": "quirky"
+      },
+      {
+        "key": "D",
+        "text": "flamboyant"
+      },
+      {
+        "key": "E",
+        "text": "successful"
+      },
+      {
+        "key": "F",
+        "text": "lucrative"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "unconventional",
+        "definition": "Not based on or conforming to what is generally done or believed."
+      },
+      {
+        "word": "quirky",
+        "definition": "Characterized by peculiar or unexpected traits."
+      },
+      {
+        "word": "flamboyant",
+        "definition": "Tending to attract attention because of exuberance, confidence, and stylishness."
+      },
+      {
+        "word": "lucrative",
+        "definition": "Producing a great deal of profit."
+      }
+    ],
+    "explanation": "The word \"Despite\" establishes a contrast between Moreland's choices and her personality. The sentence states she was not a \"rebellious spirit\" or \"out of the ordinary,\" so her choices must have been exactly that. The words \"unconventional\" and \"quirky\" are synonyms that both mean unusual or out of the ordinary, fitting the logic of the sentence perfectly."
+  },
+  {
+    "id": "section_6_easy_10",
+    "section": "section 6 easy",
+    "question_number": 10,
+    "type": "Sentence Equivalence",
+    "correctAnswer": "BE",
+    "question": "Despite their cultural and social significance, rapid growth, and widespread appeal in China, videogames—unlike traditional media—have received ______ attention from international communication researchers.",
+    "options": [
+      {
+        "key": "A",
+        "text": "undue"
+      },
+      {
+        "key": "B",
+        "text": "scant"
+      },
+      {
+        "key": "C",
+        "text": "excessive"
+      },
+      {
+        "key": "D",
+        "text": "focused"
+      },
+      {
+        "key": "E",
+        "text": "limited"
+      },
+      {
+        "key": "F",
+        "text": "dwindling"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "scant",
+        "definition": "Barely sufficient or adequate; very little."
+      },
+      {
+        "word": "undue",
+        "definition": "Unwarranted or inappropriate because it is excessive or disproportionate."
+      },
+      {
+        "word": "dwindling",
+        "definition": "Gradually diminishing in size, amount, or strength."
+      }
+    ],
+    "explanation": "The word 'Despite' at the beginning of the sentence establishes a contrast, indicating that the reality is opposite to what one would expect. Given video games' significance, growth, and appeal, one would expect them to receive a great deal of attention. Therefore, the blank must mean the opposite, which is a small amount of attention, making the synonyms 'scant' and 'limited' the correct answers."
+  },
+  {
+    "id": "section_7_easy_1",
+    "section": "section 7 easy",
+    "question_number": 1,
+    "type": "Text Completion",
+    "correctAnswer": "E",
+    "question": "The artist’s career was remarkable partly because it was so ______: she died, with only a few paintings to her credit, while still in her twenties.",
+    "options": [
+      {
+        "key": "A",
+        "text": "felicitous"
+      },
+      {
+        "key": "B",
+        "text": "prolific"
+      },
+      {
+        "key": "C",
+        "text": "enduring"
+      },
+      {
+        "key": "D",
+        "text": "conventional"
+      },
+      {
+        "key": "E",
+        "text": "abbreviated"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "felicitous",
+        "definition": "Well-chosen or suited to the circumstances; apt or appropriate."
+      },
+      {
+        "word": "prolific",
+        "definition": "Producing a great number or amount of something, especially works of art or literature."
+      },
+      {
+        "word": "abbreviated",
+        "definition": "Shortened; cut short."
+      }
+    ],
+    "explanation": "The colon signals that the second part of the sentence defines or elaborates on the word in the blank. The fact that the artist 'died...while still in her twenties' with 'only a few paintings' indicates her career was very short. Therefore, 'abbreviated,' meaning shortened or cut short, is the correct word to describe such a career."
+  },
+  {
+    "id": "section_7_easy_2",
+    "section": "section 7 easy",
+    "question_number": 2,
+    "type": "Text Completion",
+    "correctAnswer": "D",
+    "question": "The province has long claimed to be just another developing region, even as its economy ______ those of other regions and threatens to eclipse the rest of the country combined.",
+    "options": [
+      {
+        "key": "A",
+        "text": "parallels"
+      },
+      {
+        "key": "B",
+        "text": "bolsters"
+      },
+      {
+        "key": "C",
+        "text": "corroborates"
+      },
+      {
+        "key": "D",
+        "text": "outstrips"
+      },
+      {
+        "key": "E",
+        "text": "engages"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "eclipse",
+        "definition": "To surpass, overshadow, or make less important."
+      },
+      {
+        "word": "outstrips",
+        "definition": "To move faster than and overtake; to surpass or exceed."
+      },
+      {
+        "word": "bolsters",
+        "definition": "To support, strengthen, or prop up."
+      },
+      {
+        "word": "corroborates",
+        "definition": "To confirm or give support to a statement, theory, or finding."
+      }
+    ],
+    "explanation": "The phrase 'even as' signals a contrast between the province's claim to be an ordinary region and the reality of its economic power. The clue that its economy 'threatens to eclipse the rest of the country' indicates that it is vastly superior to others. Therefore, the blank requires a word meaning 'surpasses,' making 'outstrips' the ideal choice."
+  },
+  {
+    "id": "section_7_easy_3",
+    "section": "section 7 easy",
+    "question_number": 3,
+    "type": "Sentence Equivalence",
+    "correctAnswer": "CE",
+    "question": "Scholars have marveled over the (i) ______ that Shakespeare displays in his works, noting that such broad learning is all the more remarkable given that books were relatively (ii) ______ in Shakespeare’s time.",
+    "options": [
+      {
+        "key": "A",
+        "text": "meticulousness"
+      },
+      {
+        "key": "B",
+        "text": "humor"
+      },
+      {
+        "key": "C",
+        "text": "erudition"
+      },
+      {
+        "key": "D",
+        "text": "edifying"
+      },
+      {
+        "key": "E",
+        "text": "scarce"
+      },
+      {
+        "key": "F",
+        "text": "inexpensive"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "erudition",
+        "definition": "The quality of having or showing great knowledge or learning; scholarship."
+      },
+      {
+        "word": "edifying",
+        "definition": "Providing moral or intellectual instruction."
+      },
+      {
+        "word": "scarce",
+        "definition": "Insufficient for the demand; occurring in small numbers or quantities."
+      }
+    ],
+    "explanation": "The phrase 'broad learning' directly points to (C) erudition, which means extensive knowledge acquired from reading. For this learning to be 'all the more remarkable,' the resources for it—books—must have been difficult to obtain. This makes (E) scarce the logical choice for the second blank, creating a contrast between the rarity of books and the vastness of Shakespeare's knowledge."
+  },
+  {
+    "id": "section_7_easy_4",
+    "section": "section 7 easy",
+    "question_number": 4,
+    "type": "Sentence Equivalence",
+    "correctAnswer": "AF",
+    "question": "She was never (i)______; she was nothing if not discreet, so she (ii)______ for the present to declare her passion.",
+    "options": [
+      {
+        "key": "A",
+        "text": "precipitate"
+      },
+      {
+        "key": "B",
+        "text": "tactful"
+      },
+      {
+        "key": "C",
+        "text": "thoughtful"
+      },
+      {
+        "key": "D",
+        "text": "pretended"
+      },
+      {
+        "key": "E",
+        "text": "decided"
+      },
+      {
+        "key": "F",
+        "text": "forbore"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "precipitate",
+        "definition": "Done, made, or acting suddenly or without careful consideration; hasty or rash."
+      },
+      {
+        "word": "discreet",
+        "definition": "Careful and prudent in one's speech or actions, especially in order to keep something confidential or to avoid embarrassment."
+      },
+      {
+        "word": "forbore",
+        "definition": "The past tense of forbear, meaning to politely or patiently restrain an impulse to do something; to refrain."
+      }
+    ],
+    "explanation": "The key phrase \"nothing if not discreet\" means she was extremely discreet and careful. This quality is the opposite of being (i) `precipitate`, or hasty. Because she was so discreet, it logically follows that she (ii) `forbore`, or refrained from, declaring her passion for the time being."
+  },
+  {
+    "id": "section_7_easy_5",
+    "section": "section 7 easy",
+    "question_number": 5,
+    "type": "Sentence Equivalence",
+    "correctAnswer": "AE",
+    "question": "Except for a few passages in the biography in which the subject’s flaws are (i)_____, the author’s treatment of her subject is (ii)_____.",
+    "options": [
+      {
+        "key": "A",
+        "text": "too harshly judged"
+      },
+      {
+        "key": "B",
+        "text": "analyzed in depth"
+      },
+      {
+        "key": "C",
+        "text": "frankly acknowledged"
+      },
+      {
+        "key": "D",
+        "text": "erudite"
+      },
+      {
+        "key": "E",
+        "text": "judicious"
+      },
+      {
+        "key": "F",
+        "text": "acrimonious"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "judicious",
+        "definition": "Having, showing, or done with good judgment or sense."
+      },
+      {
+        "word": "erudite",
+        "definition": "Having or showing great knowledge or learning."
+      },
+      {
+        "word": "acrimonious",
+        "definition": "Angry and bitter, typically of a speech or debate."
+      }
+    ],
+    "explanation": "The phrase 'Except for' sets up a contrast between the author's overall treatment of the subject and the way flaws are handled in a few specific passages. This means the word for the second blank must be the opposite of the phrase for the first blank. A 'judicious' (fair, balanced) treatment contrasts perfectly with the few instances where flaws were 'too harshly judged' (unfair, unbalanced)."
+  },
+  {
+    "id": "section_7_easy_6",
+    "section": "section 7 easy",
+    "question_number": 6,
+    "type": "Text Completion",
+    "correctAnswer": "CEI",
+    "question": "The writer argues that jewelry-grade diamonds, because they are both (i)__________ and (ii)__________, prove one of two conclusions; their purchasers have so much money they can spend it on goods that (iii)__________, or their purchasers are so committed to making others think they have such wealth that they are willing to go into debt to do so.",
+    "options": [
+      {
+        "key": "A",
+        "text": "flawless"
+      },
+      {
+        "key": "B",
+        "text": "fungible"
+      },
+      {
+        "key": "C",
+        "text": "expensive"
+      },
+      {
+        "key": "D",
+        "text": "durable"
+      },
+      {
+        "key": "E",
+        "text": "useless"
+      },
+      {
+        "key": "F",
+        "text": "irreplaceable"
+      },
+      {
+        "key": "G",
+        "text": "may appreciate in value"
+      },
+      {
+        "key": "H",
+        "text": "reflect the buyers’ connoisseurship"
+      },
+      {
+        "key": "I",
+        "text": "serve no practical purpose"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "fungible",
+        "definition": "Interchangeable with another identical item; mutually interchangeable."
+      },
+      {
+        "word": "connoisseurship",
+        "definition": "Expert knowledge and keen discrimination in a particular field, especially in the fine arts."
+      }
+    ],
+    "explanation": "The sentence's logic hinges on why buying diamonds is an act of extravagance, undertaken either by the truly wealthy or those pretending to be. This extravagance is defined by purchasing goods that (iii) 'serve no practical purpose.' For this to be the case, the diamonds themselves must possess qualities that make them a luxury rather than a practical purchase, namely being (i) 'expensive' and (ii) 'useless'."
+  },
+  {
+    "id": "section_7_easy_7",
+    "section": "section 7 easy",
+    "question_number": 7,
+    "type": "Sentence Equivalence",
+    "correctAnswer": "AF",
+    "question": "In Ramachandran’s opinion, it is perfectly acceptable to propose bold speculations about the brain, even if these speculations seem ______; as Ramachandran frequently remarks, science thrives on risky conjecture.",
+    "options": [
+      {
+        "key": "A",
+        "text": "unfounded"
+      },
+      {
+        "key": "B",
+        "text": "premature"
+      },
+      {
+        "key": "C",
+        "text": "controversial"
+      },
+      {
+        "key": "D",
+        "text": "verifiable"
+      },
+      {
+        "key": "E",
+        "text": "testable"
+      },
+      {
+        "key": "F",
+        "text": "baseless"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "speculations",
+        "definition": "Theories or conjectures formed without firm evidence."
+      },
+      {
+        "word": "conjecture",
+        "definition": "An opinion or conclusion formed on the basis of incomplete information."
+      },
+      {
+        "word": "unfounded/baseless",
+        "definition": "Having no foundation or basis in fact."
+      }
+    ],
+    "explanation": "The second part of the sentence, which states that 'science thrives on risky conjecture,' provides the key context clue. This suggests that the 'bold speculations' mentioned earlier are acceptable even if they lack a solid foundation or evidence at the time they are proposed. The words 'unfounded' and 'baseless' both mean 'without foundation in fact' and are the only pair of synonyms that fit this logic."
+  },
+  {
+    "id": "section_7_easy_8",
+    "section": "section 7 easy",
+    "question_number": 8,
+    "type": "Sentence Equivalence",
+    "correctAnswer": "AC",
+    "question": "The concert hall’s suspended ceiling is two-inch-thick plaster that reflects low-frequency sound energy; similarly, all wall surfaces are angled and shaped to ______ sound from the stage throughout the audience area.",
+    "options": [
+      {
+        "key": "A",
+        "text": "diffuse"
+      },
+      {
+        "key": "B",
+        "text": "amplify"
+      },
+      {
+        "key": "C",
+        "text": "spread"
+      },
+      {
+        "key": "D",
+        "text": "dampen"
+      },
+      {
+        "key": "E",
+        "text": "eclipse"
+      },
+      {
+        "key": "F",
+        "text": "deaden"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "diffuse",
+        "definition": "To spread or cause to spread over a wide area or among a large number of people."
+      },
+      {
+        "word": "dampen",
+        "definition": "To make less strong or intense; to deaden a sound or vibration."
+      },
+      {
+        "word": "eclipse",
+        "definition": "To obscure or block from view; to surpass or make less important."
+      },
+      {
+        "word": "deaden",
+        "definition": "To deprive of force, vigor, or sensation; to make a sound duller or quieter."
+      }
+    ],
+    "explanation": "The keyword 'similarly' indicates the walls perform a function like the ceiling, which 'reflects' sound energy. The goal is to move the sound 'throughout the audience area,' which implies distribution. Therefore, the walls are designed to 'diffuse' and 'spread' the sound, creating two sentences with the same meaning."
+  },
+  {
+    "id": "section_7_easy_9",
+    "section": "section 7 easy",
+    "question_number": 9,
+    "type": "Sentence Equivalence",
+    "correctAnswer": "AC",
+    "question": "Any notion of justice in the fortunes of artists is ______: works of equal value and quality produce quite different returns or no returns at all.",
+    "options": [
+      {
+        "key": "A",
+        "text": "baseless"
+      },
+      {
+        "key": "B",
+        "text": "cliché"
+      },
+      {
+        "key": "C",
+        "text": "untenable"
+      },
+      {
+        "key": "D",
+        "text": "insulting"
+      },
+      {
+        "key": "E",
+        "text": "condescending"
+      },
+      {
+        "key": "F",
+        "text": "idealistic"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "baseless",
+        "definition": "Without foundation in fact; unfounded."
+      },
+      {
+        "word": "untenable",
+        "definition": "Not able to be maintained or defended against attack or objection."
+      },
+      {
+        "word": "cliché",
+        "definition": "A phrase or opinion that is overused and betrays a lack of original thought."
+      }
+    ],
+    "explanation": "The colon indicates that the second part of the sentence explains or provides evidence for the first part. The evidence—that works of equal value get unequal returns—directly contradicts the idea of justice in artists' fortunes. Therefore, this notion of justice is without foundation and cannot be defended, making it both 'baseless' and 'untenable'."
+  },
+  {
+    "id": "section_7_easy_10",
+    "section": "section 7 easy",
+    "question_number": 10,
+    "type": "Sentence Equivalence",
+    "correctAnswer": "CE",
+    "question": "Agencies responsible for protecting natural resources too often issue permits allowing exploitation of those resources, a process that remains ______ given that agencies have become experts at masking their decisions in scientific terms.",
+    "options": [
+      {
+        "key": "A",
+        "text": "controversial"
+      },
+      {
+        "key": "B",
+        "text": "exacting"
+      },
+      {
+        "key": "C",
+        "text": "obscure"
+      },
+      {
+        "key": "D",
+        "text": "onerous"
+      },
+      {
+        "key": "E",
+        "text": "opaque"
+      },
+      {
+        "key": "F",
+        "text": "misleading"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "onerous",
+        "definition": "Involving a great deal of effort, trouble, or difficulty; burdensome."
+      },
+      {
+        "word": "obscure",
+        "definition": "Not discovered or known about; uncertain or not clearly expressed."
+      },
+      {
+        "word": "opaque",
+        "definition": "Not able to be seen through; not transparent; hard or impossible to understand."
+      }
+    ],
+    "explanation": "The phrase \"given that\" indicates that the second part of the sentence explains the first. The clue is that agencies are \"masking their decisions in scientific terms,\" which means they are deliberately making the process hard to understand. Therefore, the process remains \"obscure\" and \"opaque,\" as both words mean unclear or difficult to comprehend."
+  },
+  {
+    "id": "section_8_easy_1",
+    "section": "section 8 easy",
+    "question_number": 1,
+    "type": "Text Completion",
+    "correctAnswer": "E",
+    "question": "Parker’s model of human behavior reflects a ______ outlook, in stark contrast to the generally pessimistic analyses of her colleagues in the economics department.",
+    "options": [
+      {
+        "key": "A",
+        "text": "prescient"
+      },
+      {
+        "key": "B",
+        "text": "circumspect"
+      },
+      {
+        "key": "C",
+        "text": "technical"
+      },
+      {
+        "key": "D",
+        "text": "magisterial"
+      },
+      {
+        "key": "E",
+        "text": "sanguine"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "prescient",
+        "definition": "Having knowledge of events before they take place; prophetic."
+      },
+      {
+        "word": "circumspect",
+        "definition": "Wary and unwilling to take risks; cautious."
+      },
+      {
+        "word": "magisterial",
+        "definition": "Having or showing great authority; domineering."
+      },
+      {
+        "word": "sanguine",
+        "definition": "Optimistic or positive, especially in a difficult situation."
+      }
+    ],
+    "explanation": "The phrase \"in stark contrast to the generally pessimistic analyses\" signals that Parker's outlook is the opposite of her colleagues'. The blank requires a word that means the opposite of \"pessimistic.\" \"Sanguine,\" meaning optimistic or hopeful, provides this direct contrast and is the correct answer."
+  },
+  {
+    "id": "section_8_easy_2",
+    "section": "section 8 easy",
+    "question_number": 2,
+    "type": "Sentence Equivalence",
+    "correctAnswer": "BF",
+    "question": "The history of the region’s natural resources has been one of initial (i)__________ followed by (ii)__________; as such the region has over time gone from a resource-rich to a resource-dependent economy.",
+    "options": [
+      {
+        "key": "A",
+        "text": "disappointment"
+      },
+      {
+        "key": "B",
+        "text": "abundance"
+      },
+      {
+        "key": "C",
+        "text": "conservation"
+      },
+      {
+        "key": "D",
+        "text": "growing interdependence"
+      },
+      {
+        "key": "E",
+        "text": "draconian regulation"
+      },
+      {
+        "key": "F",
+        "text": "rapacious depletion"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "rapacious",
+        "definition": "Aggressively greedy or plundering."
+      },
+      {
+        "word": "depletion",
+        "definition": "Reduction in the number or quantity of something."
+      },
+      {
+        "word": "draconian",
+        "definition": "Excessively harsh and severe."
+      }
+    ],
+    "explanation": "The sentence describes a shift from a \"resource-rich\" state to a \"resource-dependent\" one. This means the region must have started with an (i) 'abundance' of resources. The subsequent change to dependency implies these resources were used up, making (ii) 'rapacious depletion' the most logical cause for this economic transformation."
+  },
+  {
+    "id": "section_8_easy_3",
+    "section": "section 8 easy",
+    "question_number": 3,
+    "type": "Sentence Equivalence",
+    "correctAnswer": "AE",
+    "question": "Any account of experimental music in the United States that (i)______ the predominantly African American bebop and free jazz movements is (ii)______, since this body of music constitutes what is arguably the most influential African American experimental music in the decades following the Second World War.",
+    "options": [
+      {
+        "key": "A",
+        "text": "neglects"
+      },
+      {
+        "key": "B",
+        "text": "exaggerates"
+      },
+      {
+        "key": "C",
+        "text": "reinterprets"
+      },
+      {
+        "key": "D",
+        "text": "underappreciated"
+      },
+      {
+        "key": "E",
+        "text": "problematic"
+      },
+      {
+        "key": "F",
+        "text": "self-serving"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "predominantly",
+        "definition": "Mainly; for the most part."
+      },
+      {
+        "word": "constitutes",
+        "definition": "To be the parts or components of; to make up or form something."
+      },
+      {
+        "word": "arguably",
+        "definition": "Used to say that a statement is very likely to be true, even if it is not certain."
+      }
+    ],
+    "explanation": "The word \"since\" signals that the second half of the sentence provides the reason for the first half. The second part establishes the major influence of bebop and free jazz, describing them as \"the most influential\" experimental music of their time. Therefore, any historical account that (i) `neglects` these vital movements would be considered deeply flawed or (ii) `problematic`."
+  },
+  {
+    "id": "section_8_easy_4",
+    "section": "section 8 easy",
+    "question_number": 4,
+    "type": "Sentence Equivalence",
+    "correctAnswer": "CF",
+    "question": "Despite the abundance and importance of maize, its biological origin has been a long-running mystery. The bright yellow, mouth-watering treat does not grow in the wild anywhere on the planet, so its (i)__________ is not at all (ii)__________.",
+    "options": [
+      {
+        "key": "A",
+        "text": "utility"
+      },
+      {
+        "key": "B",
+        "text": "popularity"
+      },
+      {
+        "key": "C",
+        "text": "ancestry"
+      },
+      {
+        "key": "D",
+        "text": "helpful"
+      },
+      {
+        "key": "E",
+        "text": "important"
+      },
+      {
+        "key": "F",
+        "text": "obvious"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "abundance",
+        "definition": "A very large quantity of something."
+      },
+      {
+        "word": "maize",
+        "definition": "A tall cereal grass that yields large grains, or kernels, set in rows on a cob; another term for corn."
+      },
+      {
+        "word": "ancestry",
+        "definition": "One's family or ethnic descent; origin or background."
+      }
+    ],
+    "explanation": "The first sentence establishes that the 'biological origin' of maize is a 'mystery.' The second sentence explains that because maize does not grow in the wild, its origin—or (i) ancestry—is therefore not at all (ii) obvious. The word 'so' signals this cause-and-effect relationship between the mystery and the conclusion."
+  },
+  {
+    "id": "section_8_easy_5",
+    "section": "section 8 easy",
+    "question_number": 5,
+    "type": "Text Completion",
+    "correctAnswer": "BDI",
+    "question": "In medieval Europe, watermills were more (i)______ than windmills. It is true that windmills could be built virtually anywhere, whereas watermills (ii)______ certain locations. However, watermills’ greater capacity and reliability provided a better (iii)______ the money required to build the mill.",
+    "options": [
+      {
+        "key": "A",
+        "text": "problematic"
+      },
+      {
+        "key": "B",
+        "text": "profitable"
+      },
+      {
+        "key": "C",
+        "text": "versatile"
+      },
+      {
+        "key": "D",
+        "text": "were suitable only for"
+      },
+      {
+        "key": "E",
+        "text": "inspired a variety of new technologies"
+      },
+      {
+        "key": "F",
+        "text": "required a good deal of upkeep"
+      },
+      {
+        "key": "G",
+        "text": "source of"
+      },
+      {
+        "key": "H",
+        "text": "adjunct to"
+      },
+      {
+        "key": "I",
+        "text": "return on"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "versatile",
+        "definition": "Able to adapt or be adapted to many different functions or activities."
+      },
+      {
+        "word": "adjunct",
+        "definition": "A thing added to something else as a supplementary rather than an essential part."
+      }
+    ],
+    "explanation": "The final sentence states that watermills' 'greater capacity and reliability' justified the money spent, which supports 'profitable' for the first blank and 'return on' for the third. The word 'whereas' creates a contrast between windmills being built 'virtually anywhere' and watermills, which logically 'were suitable only for' specific locations (near water). Thus, despite their locational limits, watermills were a better investment."
+  },
+  {
+    "id": "section_8_easy_6",
+    "section": "section 8 easy",
+    "question_number": 6,
+    "type": "Text Completion",
+    "correctAnswer": "AFH",
+    "question": "When the Agriculture Department (i)__________ its dietary guidelines, it laid down a challenge: Eat better, smarter, and healthier or else. The “or else” included a long list of (ii)__________ that (iii)__________ the developed world, from heart disease and osteoporosis to diabetes.",
+    "options": [
+      {
+        "key": "A",
+        "text": "make public"
+      },
+      {
+        "key": "B",
+        "text": "debunked"
+      },
+      {
+        "key": "C",
+        "text": "refused to consider"
+      },
+      {
+        "key": "D",
+        "text": "intangibles"
+      },
+      {
+        "key": "E",
+        "text": "misconceptions"
+      },
+      {
+        "key": "F",
+        "text": "maladies"
+      },
+      {
+        "key": "G",
+        "text": "assuage"
+      },
+      {
+        "key": "H",
+        "text": "plague"
+      },
+      {
+        "key": "I",
+        "text": "ignore"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "maladies",
+        "definition": "Diseases or ailments."
+      },
+      {
+        "word": "plague",
+        "definition": "To cause continual trouble or distress to; to afflict."
+      },
+      {
+        "word": "assuage",
+        "definition": "To make an unpleasant feeling less intense; to soothe."
+      },
+      {
+        "word": "debunked",
+        "definition": "Exposed the falseness or hollowness of a myth, idea, or belief."
+      }
+    ],
+    "explanation": "The context suggests the department released its guidelines, so 'make public' is the best fit for the first blank. The phrase 'or else' introduces a list of negative consequences, and the examples (heart disease, diabetes) are 'maladies,' or diseases. These widespread health issues are a serious problem that 'plague,' or afflict, the developed world."
+  },
+  {
+    "id": "section_8_easy_7",
+    "section": "section 8 easy",
+    "question_number": 7,
+    "type": "Sentence Equivalence",
+    "correctAnswer": "BC",
+    "question": "Although legislators on both sides of issues have repeatedly __________ a desire to find a middle ground, until now no acceptable compromise has been achieved.",
+    "options": [
+      {
+        "key": "A",
+        "text": "discussed"
+      },
+      {
+        "key": "B",
+        "text": "proclaimed"
+      },
+      {
+        "key": "C",
+        "text": "professed"
+      },
+      {
+        "key": "D",
+        "text": "rejected"
+      },
+      {
+        "key": "E",
+        "text": "disowned"
+      },
+      {
+        "key": "F",
+        "text": "betrayed"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "proclaimed",
+        "definition": "To announce officially or publicly; to declare."
+      },
+      {
+        "word": "professed",
+        "definition": "To claim openly but often insincerely that one has a particular feeling or quality."
+      },
+      {
+        "word": "disowned",
+        "definition": "To refuse to acknowledge or maintain any connection with someone or something."
+      }
+    ],
+    "explanation": "The word 'Although' establishes a contrast between the legislators' stated desire and the actual result. The fact that 'no acceptable compromise has been achieved' suggests their stated desire was not genuine or effective. Therefore, words meaning to publicly declare or claim, such as 'proclaimed' and 'professed,' are the best fit, as they describe the legislators' public statements that contradict the outcome."
+  },
+  {
+    "id": "section_8_easy_8",
+    "section": "section 8 easy",
+    "question_number": 8,
+    "type": "Sentence Equivalence",
+    "correctAnswer": "AC",
+    "question": "The company is so old-fashioned and opposed to innovation that it can seem downright _____.",
+    "options": [
+      {
+        "key": "A",
+        "text": "antediluvian"
+      },
+      {
+        "key": "B",
+        "text": "flighty"
+      },
+      {
+        "key": "C",
+        "text": "archaic"
+      },
+      {
+        "key": "D",
+        "text": "chauvinistic"
+      },
+      {
+        "key": "E",
+        "text": "capricious"
+      },
+      {
+        "key": "F",
+        "text": "patronizing"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "antediluvian",
+        "definition": "Extremely old-fashioned; literally meaning 'before the biblical Flood'."
+      },
+      {
+        "word": "archaic",
+        "definition": "Very old or old-fashioned; belonging to an earlier period."
+      },
+      {
+        "word": "capricious",
+        "definition": "Given to sudden and unaccountable changes of mood or behavior; fickle."
+      }
+    ],
+    "explanation": "The clues \"so old-fashioned and opposed to innovation\" indicate that the blank requires a word meaning extremely outdated. \"Antediluvian\" and \"archaic\" are synonyms that both mean antiquated or belonging to a much earlier time, perfectly fitting the context. The other words describe different negative traits that are not supported by the sentence."
+  },
+  {
+    "id": "section_8_easy_9",
+    "section": "section 8 easy",
+    "question_number": 9,
+    "type": "Sentence Equivalence",
+    "correctAnswer": "CF",
+    "question": "Estimating demographic parameters in marine mammals is challenging, often requiring many years of data to achieve sufficient precision to _____ biologically meaningful change.",
+    "options": [
+      {
+        "key": "A",
+        "text": "effect"
+      },
+      {
+        "key": "B",
+        "text": "tolerate"
+      },
+      {
+        "key": "C",
+        "text": "discern"
+      },
+      {
+        "key": "D",
+        "text": "envisage"
+      },
+      {
+        "key": "E",
+        "text": "withstand"
+      },
+      {
+        "key": "F",
+        "text": "detect"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "demographic",
+        "definition": "Relating to the statistical structure of human populations (or, by extension, animal populations)."
+      },
+      {
+        "word": "discern",
+        "definition": "To perceive or recognize something; to distinguish with difficulty by sight or other senses."
+      },
+      {
+        "word": "envisage",
+        "definition": "To contemplate or conceive of as a possibility or a desirable future event."
+      }
+    ],
+    "explanation": "The sentence indicates that achieving \"sufficient precision\" through long-term data collection is a prerequisite for some action. This level of precision allows researchers to perceive or identify subtle but significant biological changes. Therefore, \"discern\" and \"detect,\" which are synonyms meaning to notice or discover something that is not obvious, are the best fit for the blank."
+  },
+  {
+    "id": "section_8_easy_10",
+    "section": "section 8 easy",
+    "question_number": 10,
+    "type": "Sentence Equivalence",
+    "correctAnswer": "AC",
+    "question": "Scientists should hope the faults in their theories will be ______ their peers, since the refutation of one hypothesis can free its originator to develop a better one.",
+    "options": [
+      {
+        "key": "A",
+        "text": "discerned by"
+      },
+      {
+        "key": "B",
+        "text": "disregarded by"
+      },
+      {
+        "key": "C",
+        "text": "discovered by"
+      },
+      {
+        "key": "D",
+        "text": "ignored by"
+      },
+      {
+        "key": "E",
+        "text": "opaque to"
+      },
+      {
+        "key": "F",
+        "text": "inspiring to"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "refutation",
+        "definition": "The action of proving a statement or theory to be wrong or false."
+      },
+      {
+        "word": "discerned",
+        "definition": "Perceived or recognized something, often with difficulty."
+      },
+      {
+        "word": "opaque",
+        "definition": "Not able to be seen through; hard to understand or interpret."
+      }
+    ],
+    "explanation": "The word 'since' introduces a reason: the refutation of a bad hypothesis allows for the development of a better one. This positive outcome means scientists should want the faults in their theories to be found. Therefore, the blank requires words that mean 'found' or 'identified'; 'discerned by' and 'discovered by' are synonyms that fit this context perfectly."
+  },
+  {
+    "id": "section_9_easy_1",
+    "section": "section 9 easy",
+    "question_number": 1,
+    "type": "Text Completion",
+    "correctAnswer": "B",
+    "question": "He was so ______ during the filming of the movie that crew members nicknamed him “The Angriest Man in the World.”",
+    "options": [
+      {
+        "key": "A",
+        "text": "loquacious"
+      },
+      {
+        "key": "B",
+        "text": "irascible"
+      },
+      {
+        "key": "C",
+        "text": "perfidious"
+      },
+      {
+        "key": "D",
+        "text": "sanguine"
+      },
+      {
+        "key": "E",
+        "text": "voracious"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "irascible",
+        "definition": "Easily made angry; hot-tempered."
+      },
+      {
+        "word": "loquacious",
+        "definition": "Tending to talk a great deal; talkative."
+      },
+      {
+        "word": "perfidious",
+        "definition": "Deceitful and untrustworthy."
+      },
+      {
+        "word": "sanguine",
+        "definition": "Optimistic or positive, especially in a difficult situation."
+      }
+    ],
+    "explanation": "The key clue in the sentence is the nickname the crew gave the man: “The Angriest Man in the World.” This nickname directly describes a personality trait related to anger. Therefore, the word in the blank must mean 'easily angered' or 'irritable,' making 'irascible' the correct choice."
+  },
+  {
+    "id": "section_9_easy_2",
+    "section": "section 9 easy",
+    "question_number": 2,
+    "type": "Text Completion",
+    "correctAnswer": "C",
+    "question": "The film was a ______: its elements were assembled more or less haphazardly from a dozen different sources.",
+    "options": [
+      {
+        "key": "A",
+        "text": "burlesque"
+      },
+      {
+        "key": "B",
+        "text": "satire"
+      },
+      {
+        "key": "C",
+        "text": "pastiche"
+      },
+      {
+        "key": "D",
+        "text": "chronicle"
+      },
+      {
+        "key": "E",
+        "text": "parody"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "pastiche",
+        "definition": "An artistic work consisting of a medley of pieces from various sources."
+      },
+      {
+        "word": "haphazardly",
+        "definition": "In a manner lacking any obvious principle of organization; randomly."
+      },
+      {
+        "word": "burlesque",
+        "definition": "An absurd or comically exaggerated imitation of something, especially in a literary or dramatic work."
+      }
+    ],
+    "explanation": "The colon indicates that the second part of the sentence defines the word in the blank. The description of the film's elements being 'assembled more or less haphazardly from a dozen of different sources' directly matches the definition of a 'pastiche,' which is a medley created from various sources. The other options, like 'parody' or 'satire,' involve imitation for comic or critical effect, which is not mentioned in the sentence."
+  },
+  {
+    "id": "section_9_easy_3",
+    "section": "section 9 easy",
+    "question_number": 3,
+    "type": "Sentence Equivalence",
+    "correctAnswer": "CD",
+    "question": "The description of Green's scholarship as (i) __________ is grossly misleading: while her research on interstellar particles is not especially novel, the conclusions she draws from her data are (ii) __________.",
+    "options": [
+      {
+        "key": "A",
+        "text": "esoteric"
+      },
+      {
+        "key": "B",
+        "text": "tendentious"
+      },
+      {
+        "key": "C",
+        "text": "derivative"
+      },
+      {
+        "key": "D",
+        "text": "remarkably pioneering"
+      },
+      {
+        "key": "E",
+        "text": "dubiously supported"
+      },
+      {
+        "key": "F",
+        "text": "strangely comforting"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "derivative",
+        "definition": "Imitative of the work of another person; unoriginal."
+      },
+      {
+        "word": "tendentious",
+        "definition": "Expressing or intending to promote a particular, often controversial, point of view; biased."
+      },
+      {
+        "word": "pioneering",
+        "definition": "Involving new ideas or methods; innovative."
+      },
+      {
+        "word": "esoteric",
+        "definition": "Intended for or likely to be understood by only a small number of people with a specialized knowledge."
+      }
+    ],
+    "explanation": "The phrase 'grossly misleading' signals a contrast, which is further clarified by 'while.' The sentence concedes that her research is 'not especially novel,' which aligns with the description 'derivative' (C) for the first blank. However, this description is misleading because her conclusions are the opposite of unoriginal; they are, in fact, 'remarkably pioneering' (D)."
+  },
+  {
+    "id": "section_9_easy_4",
+    "section": "section 9 easy",
+    "question_number": 4,
+    "type": "Sentence Equivalence",
+    "correctAnswer": "BF",
+    "question": "People frequently attempt to relieve their workplace frustrations via surreptitious comments around the watercooler but would be better able to resolve their resentment if they were less (i)__________ about their problem and initiated a more (ii)__________ dialogue.",
+    "options": [
+      {
+        "key": "A",
+        "text": "vexatious"
+      },
+      {
+        "key": "B",
+        "text": "clandestine"
+      },
+      {
+        "key": "C",
+        "text": "opportunistic"
+      },
+      {
+        "key": "D",
+        "text": "equitable"
+      },
+      {
+        "key": "E",
+        "text": "sincere"
+      },
+      {
+        "key": "F",
+        "text": "open"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "surreptitious",
+        "definition": "Kept secret, especially because it would not be approved of."
+      },
+      {
+        "word": "clandestine",
+        "definition": "Kept secret or done secretively."
+      },
+      {
+        "word": "vexatious",
+        "definition": "Causing or tending to cause annoyance, frustration, or worry."
+      }
+    ],
+    "explanation": "The sentence contrasts making 'surreptitious' (secret) comments with a better method for resolving resentment, signaled by the word 'but'. To be the opposite of surreptitious, people should be less 'clandestine' (secretive) about their problems. This new approach would involve initiating a more 'open' dialogue, which directly opposes the secrecy of the initial behavior."
+  },
+  {
+    "id": "section_9_easy_5",
+    "section": "section 9 easy",
+    "question_number": 5,
+    "type": "Sentence Equivalence",
+    "correctAnswer": "BD",
+    "question": "It would be (i)______ not to (ii)______ these tabloid journalists for thriving in hard times: they deserve credit for doing well in a profession in financial straits.",
+    "options": [
+      {
+        "key": "A",
+        "text": "apropos"
+      },
+      {
+        "key": "B",
+        "text": "churlish"
+      },
+      {
+        "key": "C",
+        "text": "cagey"
+      },
+      {
+        "key": "D",
+        "text": "admire"
+      },
+      {
+        "key": "E",
+        "text": "envy"
+      },
+      {
+        "key": "F",
+        "text": "emulate"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "churlish",
+        "definition": "Rude in a mean-spirited and surly way."
+      },
+      {
+        "word": "apropos",
+        "definition": "Very appropriate to a particular situation."
+      },
+      {
+        "word": "cagey",
+        "definition": "Reluctant to give information owing to caution or suspicion."
+      }
+    ],
+    "explanation": "The colon indicates that the second part of the sentence explains the first. The phrase 'they deserve credit for doing well' is a strong positive clue, suggesting that for the second blank, one should 'admire' the journalists. Given that they deserve admiration, it would be 'churlish' (rude or mean-spirited) to withhold it, fitting the first blank perfectly."
+  },
+  {
+    "id": "section_9_easy_6",
+    "section": "section 9 easy",
+    "question_number": 6,
+    "type": "Text Completion",
+    "correctAnswer": "CEH",
+    "question": "The historian’s narrative of the dynasty’s decline is (i)__________, because though there is nothing (ii)__________ the account, large parts of it rely on (iii)__________.",
+    "options": [
+      {
+        "key": "A",
+        "text": "diffuse"
+      },
+      {
+        "key": "B",
+        "text": "reasonable"
+      },
+      {
+        "key": "C",
+        "text": "questionable"
+      },
+      {
+        "key": "D",
+        "text": "psychologically penetrating"
+      },
+      {
+        "key": "E",
+        "text": "inherently implausible about"
+      },
+      {
+        "key": "F",
+        "text": "fully documented in"
+      },
+      {
+        "key": "G",
+        "text": "plagiarism"
+      },
+      {
+        "key": "H",
+        "text": "conjecture"
+      },
+      {
+        "key": "I",
+        "text": "pretense"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "implausible",
+        "definition": "Not seeming reasonable or probable; failing to convince."
+      },
+      {
+        "word": "conjecture",
+        "definition": "An opinion or conclusion formed on the basis of incomplete information; a guess."
+      },
+      {
+        "word": "pretense",
+        "definition": "An attempt to make something that is not the case appear true; a false claim."
+      }
+    ],
+    "explanation": "The word 'because' indicates that the second part of the sentence explains the first, while 'though' introduces a contrast within that explanation. The account isn't obviously false or 'inherently implausible about,' but its heavy reliance on 'conjecture' (guesswork) makes the entire narrative 'questionable'. This contrast reveals the narrative's underlying weakness despite its surface-level believability."
+  },
+  {
+    "id": "section_9_easy_7",
+    "section": "section 9 easy",
+    "question_number": 7,
+    "type": "Sentence Equivalence",
+    "correctAnswer": "AF",
+    "question": "Though Edmund certainly had a dignified bearing and made a great first impression, those who became acquainted with him soon realized he had an essentially ________ nature.",
+    "options": [
+      {
+        "key": "A",
+        "text": "pugnacious"
+      },
+      {
+        "key": "B",
+        "text": "deliberate"
+      },
+      {
+        "key": "C",
+        "text": "punctilious"
+      },
+      {
+        "key": "D",
+        "text": "courteous"
+      },
+      {
+        "key": "E",
+        "text": "complacent"
+      },
+      {
+        "key": "F",
+        "text": "truculent"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "pugnacious",
+        "definition": "Eager or quick to argue, quarrel, or fight."
+      },
+      {
+        "word": "truculent",
+        "definition": "Eager or quick to argue or fight; aggressively defiant."
+      },
+      {
+        "word": "punctilious",
+        "definition": "Showing great attention to detail or correct behavior."
+      }
+    ],
+    "explanation": "The word 'Though' sets up a contrast between Edmund's outward appearance ('dignified bearing,' 'great first impression') and his actual personality. We need words that contradict this positive initial impression. 'Pugnacious' and 'truculent' are synonyms meaning aggressive and eager to fight, which provides the necessary contrast."
+  },
+  {
+    "id": "section_9_easy_8",
+    "section": "section 9 easy",
+    "question_number": 8,
+    "type": "Sentence Equivalence",
+    "correctAnswer": "BD",
+    "question": "The life of a secret agent is dangerous enough, but the life of a double agent is infinitely more ______: a single slip can send an agent crashing to destruction.",
+    "options": [
+      {
+        "key": "A",
+        "text": "arduous"
+      },
+      {
+        "key": "B",
+        "text": "precarious"
+      },
+      {
+        "key": "C",
+        "text": "clandestine"
+      },
+      {
+        "key": "D",
+        "text": "perilous"
+      },
+      {
+        "key": "E",
+        "text": "covert"
+      },
+      {
+        "key": "F",
+        "text": "exhilarating"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "precarious",
+        "definition": "Not securely held or in position; dangerously likely to fall or collapse."
+      },
+      {
+        "word": "perilous",
+        "definition": "Full of danger or risk."
+      },
+      {
+        "word": "clandestine",
+        "definition": "Kept secret or done secretively, especially because it is illicit."
+      },
+      {
+        "word": "covert",
+        "definition": "Not openly acknowledged or displayed; secret or hidden."
+      }
+    ],
+    "explanation": "The sentence contrasts a 'dangerous' life with one that is 'infinitely more' so, and the colon introduces a clarification of this heightened danger: 'a single slip can send an agent crashing to destruction.' This describes a situation that is both extremely risky and unstable. 'Precarious' (dangerously unstable) and 'perilous' (full of danger) are synonyms that both perfectly capture this specific meaning."
+  },
+  {
+    "id": "section_9_easy_9",
+    "section": "section 9 easy",
+    "question_number": 9,
+    "type": "Sentence Equivalence",
+    "correctAnswer": "BC",
+    "question": "Natural causes nerves to die off and muscles to weaken, but regular exercise of muscle fibers enlarges them and can ______ the decline by increasing the strength of the muscle you have left.",
+    "options": [
+      {
+        "key": "A",
+        "text": "speed up"
+      },
+      {
+        "key": "B",
+        "text": "stave off"
+      },
+      {
+        "key": "C",
+        "text": "forestall"
+      },
+      {
+        "key": "D",
+        "text": "facilitate"
+      },
+      {
+        "key": "E",
+        "text": "assist"
+      },
+      {
+        "key": "F",
+        "text": "exploit"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "stave off",
+        "definition": "To avert or delay something bad or dangerous."
+      },
+      {
+        "word": "forestall",
+        "definition": "To prevent or obstruct an anticipated event by taking action ahead of time."
+      }
+    ],
+    "explanation": "The sentence sets up a contrast using the word 'but' between the natural weakening of muscles (a 'decline') and the positive effects of regular exercise. This contrast indicates that exercise must work against the decline. Therefore, the blank requires words that mean to prevent or delay, making 'stave off' and 'forestall' the correct synonymous pair."
+  },
+  {
+    "id": "section_9_easy_10",
+    "section": "section 9 easy",
+    "question_number": 10,
+    "type": "Sentence Equivalence",
+    "correctAnswer": "BD",
+    "question": "Creativity is no longer seen as _____ inspiration leading to a poem or painting; it has come to be thought of as something permeating the whole of a person’s life.",
+    "options": [
+      {
+        "key": "A",
+        "text": "a mundane"
+      },
+      {
+        "key": "B",
+        "text": "a momentary"
+      },
+      {
+        "key": "C",
+        "text": "an illusory"
+      },
+      {
+        "key": "D",
+        "text": "an evanescent"
+      },
+      {
+        "key": "E",
+        "text": "a metaphoric"
+      },
+      {
+        "key": "F",
+        "text": "a prosaic"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "permeating",
+        "definition": "Spreading throughout something; pervading."
+      },
+      {
+        "word": "evanescent",
+        "definition": "Soon passing out of sight, memory, or existence; quickly fading or disappearing."
+      },
+      {
+        "word": "prosaic",
+        "definition": "Lacking poetic beauty; commonplace or unromantic."
+      },
+      {
+        "word": "illusory",
+        "definition": "Based on illusion; not real."
+      }
+    ],
+    "explanation": "The sentence uses the contrast clue 'no longer... it has come to be' to compare an old view of creativity with a new one. The new view is that creativity is 'permeating the whole of a person’s life,' implying it is constant and widespread. Therefore, the old view must be the opposite: that creative inspiration was a brief, fleeting event, as described by the synonyms 'momentary' and 'evanescent'."
   }
 ]
