@@ -63,6 +63,12 @@
             overflow: hidden;
         }
 
+        /* Ensure inner panels can scroll independently on desktop: set a max-height relative to viewport and enable smooth touch scrolling */
+        .main-content, .quiz-panel, .sidebar-nav {
+            max-height: calc(100vh - var(--header-height));
+            -webkit-overflow-scrolling: touch; /* smooth native scrolling on iOS */
+        }
+
         /* --- 1. LEFT: EXPLANATION (Main Content) --- */
         /* This is now the "Main" part, taking available space */
         .main-content {
@@ -299,12 +305,12 @@
 
         /* Stack layout vertically for small and mobile devices */
         @media (max-width: 900px) {
-            body { height: auto; }
+            body { height: auto; overflow: auto; }
 
             .header { padding: 0 12px; }
             .logo { padding-right: 0; font-size: 1rem; }
 
-            .layout { flex-direction: column; }
+            .layout { flex-direction: column; overflow: visible; }
 
             .main-content {
                 border-right: none;
@@ -319,6 +325,7 @@
                 border-right: none;
                 border-top: 1px solid var(--border);
                 padding: 16px;
+                max-height: none;
             }
 
             .quiz-card { padding: 16px; }
@@ -329,6 +336,7 @@
                 padding: 16px;
                 border-left: none;
                 border-top: 1px solid var(--border);
+                max-height: none;
             }
 
             .options-container { gap: 6px; }
