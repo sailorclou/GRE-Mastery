@@ -22,7 +22,7 @@
             --error-text: #991B1B;
 
             --header-height: 60px;
-            --sidebar-width: 200px; /* Right sidebar */
+            --sidebar-width: 250px; /* Right sidebar */
             --quiz-width: 600px; /* Center Quiz width */
         }
 
@@ -286,6 +286,71 @@
             border-left: 2px solid var(--primary);
             border-radius: 0;
             padding-left: 10px;
+        }
+
+        /* Responsive adjustments */
+        /* Slightly reduce panel sizes on narrower viewports */
+        @media (max-width: 1100px) {
+            :root {
+                --quiz-width: 520px;
+                --sidebar-width: 200px;
+            }
+        }
+
+        /* Stack layout vertically for small and mobile devices */
+        @media (max-width: 900px) {
+            body { height: auto; }
+
+            .header { padding: 0 12px; }
+            .logo { padding-right: 0; font-size: 1rem; }
+
+            .layout { flex-direction: column; }
+
+            .main-content {
+                border-right: none;
+                padding: 20px;
+                order: 1;
+                max-height: none;
+            }
+
+            .quiz-panel {
+                width: 100%;
+                order: 2;
+                border-right: none;
+                border-top: 1px solid var(--border);
+                padding: 16px;
+            }
+
+            .quiz-card { padding: 16px; }
+
+            .sidebar-nav {
+                width: 100%;
+                order: 3;
+                padding: 16px;
+                border-left: none;
+                border-top: 1px solid var(--border);
+            }
+
+            .options-container { gap: 6px; }
+            .q-text { font-size: 1.05rem; }
+            .explain-text { font-size: 1rem; }
+            .vocab-block { padding: 16px; }
+            .controls { flex-direction: row; gap: 8px; }
+
+            /* For multi-column option groups, make them flow vertically on small screens */
+            .layout-cols-2, .layout-cols-3 { display: block; }
+            .blank-header { margin-top: 12px; }
+        }
+
+        /* Very small screens */
+        @media (max-width: 480px) {
+            :root { --header-height: 52px; }
+            body { font-size: 14px; }
+            .header { height: var(--header-height); }
+            .logo { font-size: 0.95rem; }
+            .q-text { font-size: 1rem; }
+            .option { padding: 8px 10px; font-size: 0.95rem; }
+            .btn { padding: 8px; font-size: 0.8rem; }
         }
 
         @keyframes fadeIn { from { opacity: 0; transform: translateY(5px); } to { opacity: 1; transform: translateY(0); } }
